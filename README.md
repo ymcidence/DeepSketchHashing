@@ -13,7 +13,7 @@ To produce the binary codes described in the paper, one needs to install [Caffe]
 We provide several pretrained models on two datasets with their respective deploy files. You may try to use any of these models to produce hash code for image-sketch matching.
 
 ### [Sketchy Dataset](http://sketchy.eye.gatech.edu/) (Extended)
-- 32 bits
+- [32 bits](https://drive.google.com/file/d/0B2U-hnwRkpRrYUYxTXlXZVJ2ZTA/view?usp=sharing)
 - 64 bits
 - 128 bits
 - 256 bits
