@@ -1,4 +1,4 @@
-#DeepSketchHashing
+# DeepSketchHashing
 This is the repository for reproducing some key results for our paper
 
 **Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**, 
@@ -11,6 +11,7 @@ To produce the binary codes described in the paper, one needs to install [Caffe]
 
 ## Models
 We provide several pretrained models on two datasets with their respective deploy files.
+
 ### [Sketchy Dataset](http://sketchy.eye.gatech.edu/) (Extended)
 - 32 bits
 - 64 bits
