@@ -1,7 +1,7 @@
 # DeepSketchHashing
 This is the repository for reproducing some key results for our paper
 
-**Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**, 
+**Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**
 - by Li Liu, Fumin Shen, Yuming Shen, Xianglong Liu and Ling Shao
 
 to be presented on CVPR 2017 spotlight section.
