@@ -4,7 +4,7 @@ This is the repository for reproducing some key results for our paper
 - **Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**
 - by Li Liu, Fumin Shen, Yuming Shen, Xianglong Liu and Ling Shao
 
-to be presented on CVPR 2017 spotlight section for fast sketch-based image retrieval (SBIR).
+to be presented on CVPR 2017 spotlight section. This work focuses on fast sketch-based image retrieval (SBIR) using binary codes.
 
 ## Prerequisites
 To produce the binary codes described in the paper, one needs to install [Caffe](http://caffe.berkeleyvision.org/) beforehand.
