@@ -1,5 +1,6 @@
 # DeepSketchHashing
 ![alt tag](https://github.com/ymcidence/DeepSketchHashing/blob/master/DSH.jpg)
+-----------------------------------------------------------------------------
 This is the repository for reproducing some key results for our paper
 
 - **Deep Sketch Hashing: Fast Free-hand Sketch-Based Image Retrieval**
