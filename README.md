@@ -10,6 +10,7 @@ to be presented on [CVPR 2017](http://cvpr2017.thecvf.com/) spotlight section. T
 
 ## Prerequisites
 To produce the binary codes described in the paper, one needs to install [Caffe](http://caffe.berkeleyvision.org/) beforehand.
+
 The mid-level Sketch-Token representation is required for training the model. The codes can be found [here](https://github.com/gitlim/SketchTokens). Please refer to the following papers for more details.
 - [J. M. Saavedra, J. M. Barrios, and S. Orand. Sketch based image retrieval using learned keyshapes (lks). in BMVC 2015.](http://www.bmva.org/bmvc/2015/papers/paper164/paper164.pdf)
 - [Lim, Joseph J., C. Lawrence Zitnick, and Piotr Dollár. Sketch tokens: A learned mid-level representation for contour and object detection. in CVPR. 2013.](http://people.csail.mit.edu/lim/paper/SketchTokens_cvpr13.pdf)
@@ -20,6 +21,7 @@ We provide several pretrained models on two datasets with their respective deplo
 ### [Sketchy Dataset](http://sketchy.eye.gatech.edu/) (Extended)
 - [64 bits](https://drive.google.com/file/d/0B2U-hnwRkpRrWkhiZEExNi1Hd1U/view?usp=sharing)
 - [128 bits](https://drive.google.com/file/d/0B2U-hnwRkpRrLTh2YnlvcnVORDA/view?usp=sharing)
+- The extra image data mentioned in the paper can be found [here](https://drive.google.com/file/d/0B2U-hnwRkpRrc0xJVDRZc1dXbEk/view?usp=sharing).
 
 ### [TU Berlin Sketch Dataset](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 - [64 bits](https://drive.google.com/file/d/0B2U-hnwRkpRraVlzRl9Qd2M2emM/view?usp=sharing)
