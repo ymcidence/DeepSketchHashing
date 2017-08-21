@@ -26,3 +26,4 @@ We provide several pretrained models on two datasets with their respective deplo
 ### [TU Berlin Sketch Dataset](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 - [64 bits](https://drive.google.com/file/d/0B2U-hnwRkpRraVlzRl9Qd2M2emM/view?usp=sharing)
 - [128 bits](https://drive.google.com/file/d/0B2U-hnwRkpRrNi1YN1dPTXJDaW8/view?usp=sharing)
+- (UPDATED 21 AUG 2017!)The images of TU for our experiments can be found [here](https://drive.google.com/file/d/0B2U-hnwRkpRrMFVvTmFQa3dmSUk/view?usp=sharing).
